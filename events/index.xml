@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Defense In Depth</title>
+      <link>http://redhatgov.io/events/20181113-defense-in-depth-22a1a9d095fe096fea043af9ffb2c9e6/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181113-defense-in-depth-22a1a9d095fe096fea043af9ffb2c9e6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181107-devsecops-workshop-c4be824ed036f1faa66072f86661ffd0/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181107-devsecops-workshop-c4be824ed036f1faa66072f86661ffd0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181030-devsecops-workshop-18c64da5e47ef8bd194e7ede8def48af/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181030-devsecops-workshop-18c64da5e47ef8bd194e7ede8def48af/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181023-devsecops-workshop-14cd645b598433241b5999557f237021/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181023-devsecops-workshop-14cd645b598433241b5999557f237021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Workshop</title>
+      <link>http://redhatgov.io/events/20181011-ansible-workshop-75e99e9853c2092a97090161c5f97472/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181011-ansible-workshop-75e99e9853c2092a97090161c5f97472/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181004-devsecops-workshop-e52dd2568ff4ee56c3ce1188e1883f00/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181004-devsecops-workshop-e52dd2568ff4ee56c3ce1188e1883f00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20181002-devsecops-workshop-ea7d55419254ecdc498d4d1c08f8f21d/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181002-devsecops-workshop-ea7d55419254ecdc498d4d1c08f8f21d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Defined Storage and Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180926-software-defined-storage-and-automation-workshop-649393e23322212c028f1bc466bc7b31/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180926-software-defined-storage-and-automation-workshop-649393e23322212c028f1bc466bc7b31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RHHI Workshop</title>
+      <link>http://redhatgov.io/events/20180925-rhhi-workshop-8ac706f79aa0292687306425d4bf9694/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180925-rhhi-workshop-8ac706f79aa0292687306425d4bf9694/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20180920-devsecops-workshop-d91a85731fe5d1b91e065504f9a79ecd/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180920-devsecops-workshop-d91a85731fe5d1b91e065504f9a79ecd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Defined Storage and Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180919-software-defined-storage-and-automation-workshop-688d8eec08f86c924422205c56bf9251/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180919-software-defined-storage-and-automation-workshop-688d8eec08f86c924422205c56bf9251/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20180918-devsecops-workshop-cca120dc1ecd9587e1c1d22bd611593b/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180918-devsecops-workshop-cca120dc1ecd9587e1c1d22bd611593b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20180913-devsecops-workshop-4211543fae80c2b1d7f9462840736075/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180913-devsecops-workshop-4211543fae80c2b1d7f9462840736075/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180913-network-automation-workshop-2c6cce762e2c95bb8342088e0b44b687/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180913-network-automation-workshop-2c6cce762e2c95bb8342088e0b44b687/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Defined Storage and Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180912-software-defined-storage-and-automation-workshop-57580428c53b1831b145cab7d26f2887/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180912-software-defined-storage-and-automation-workshop-57580428c53b1831b145cab7d26f2887/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Workshop</title>
+      <link>http://redhatgov.io/events/20180911-ansible-workshop-1750e809953c82aa12fcae48e62a28e6/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180911-ansible-workshop-1750e809953c82aa12fcae48e62a28e6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop</title>
+      <link>http://redhatgov.io/events/20180911-devsecops-workshop-b78b9382d89c2a46d545b98eed7c261f/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180911-devsecops-workshop-b78b9382d89c2a46d545b98eed7c261f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Container and Cloud Native Roadshow</title>
+      <link>http://redhatgov.io/events/20180823-container-and-cloud-native-roadshow-3e50ad12b85e26ea25b61f81909f9b21/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180823-container-and-cloud-native-roadshow-3e50ad12b85e26ea25b61f81909f9b21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180822-network-automation-workshop-2ca7bf26ca11c0cadd5e30976be009c5/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180822-network-automation-workshop-2ca7bf26ca11c0cadd5e30976be009c5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Container and Cloud Native Roadshow</title>
+      <link>http://redhatgov.io/events/20180815-container-and-cloud-native-roadshow-267cd10e3246d85da573e74d8a7d82c8/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180815-container-and-cloud-native-roadshow-267cd10e3246d85da573e74d8a7d82c8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180815-network-automation-workshop-d88495aebddf663aff51fe9226c81eb9/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180815-network-automation-workshop-d88495aebddf663aff51fe9226c81eb9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenShift on MSFT Azure Workshop</title>
+      <link>http://redhatgov.io/events/20180813-openshift-on-msft-azure-workshop-2a70678a89074821fc60e786a0fce153/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180813-openshift-on-msft-azure-workshop-2a70678a89074821fc60e786a0fce153/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confluent-Red Hat Workshop</title>
+      <link>http://redhatgov.io/events/20180809-confluent-red-hat-workshop-827c2910272c5a844500025db03a8d12/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180809-confluent-red-hat-workshop-827c2910272c5a844500025db03a8d12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180809-network-automation-workshop-ad311dafe78be4fffc5f1b4cc261945a/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180809-network-automation-workshop-ad311dafe78be4fffc5f1b4cc261945a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible &amp; Storage Workshop</title>
+      <link>http://redhatgov.io/events/20180808-ansible-storage-workshop-bf26d5b5e4b9dc44fde7cc3c8599b13a/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180808-ansible-storage-workshop-bf26d5b5e4b9dc44fde7cc3c8599b13a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180807-network-automation-workshop-211e3e78623d6d01320061de1804490b/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180807-network-automation-workshop-211e3e78623d6d01320061de1804490b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
